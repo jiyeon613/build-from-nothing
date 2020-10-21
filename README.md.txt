@@ -1,0 +1,1 @@
+projects I've done in CS 141 class in summer 2020 Shoreline Community College.
